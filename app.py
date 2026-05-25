@@ -7,7 +7,7 @@ from flask import Flask, request
 from telebot.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 # Конфигурация
-BOT_TOKEN = "8699671728:AAGBA_82MqWds8FlyGfKcNwp8BZzNSNU6EY"
+BOT_TOKEN = "8699671728:AAEPBYcSFKzB1k_N3auB__NZhF2XzUyo17c"
 API_URL = "https://levsearchnumbertest-36dr.onrender.com"
 API_TOKEN = "LevSearchApiAll"
 ADMIN_ID = 6988163297
